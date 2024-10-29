@@ -1,0 +1,3 @@
+D:/Github Files/Vector Graphics Library/cmake-build-debug/CMakeFiles/Vector_Graphics_Library.dir
+D:/Github Files/Vector Graphics Library/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github Files/Vector Graphics Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
